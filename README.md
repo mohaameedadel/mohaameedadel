@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://img.freepik.com/free-vector/web-designer-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-1498.jpg?t=st=1712076962~exp=1712080562~hmac=c68df40a28d839aa5b0af30f141c015fb0f6a86293dca01fea9a5c8b3624e7ad&w=1380"  />
+  <img height="400" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/web-developer.jpg" 
 </div>
 
 ###
