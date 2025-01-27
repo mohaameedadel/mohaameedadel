@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="400" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/web-developer.jpg" 
-</div>
-
 ###
 
 <h2 align="center">Hi I'm Mohamed Adel👋</h2>
