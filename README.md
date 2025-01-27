@@ -5,7 +5,7 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,next,react,reactnative,redux,firebase,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,next,react,reactnative,redux,firebase,bootstrap,git,github&perline=8" />
 </p>
 
 ###
